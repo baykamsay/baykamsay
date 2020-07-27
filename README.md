@@ -1,5 +1,8 @@
-### Hi there 👋
-
+## Hi there 👋
+I'm Baykam. A CS student at Bilkent University. 
+- 🔭 I’m currently working on small personal projects.
+- 🌱 I’m currently learning React & TypeScript.
+- 👯 I’m looking to collaborate on any cool project! Just contact me if you want to.
 <!--
 **baykamsay/baykamsay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
