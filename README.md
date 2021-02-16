@@ -1,7 +1,7 @@
 ## Hi there 👋
-I'm Baykam. A CS student at Bilkent University. 
-- 🔭 I’m currently working on small personal projects.
-- 🌱 I’m currently learning AI.
+I'm Baykam. A computer engineering student at Bilkent University. Currently doing my Erasmus at Roskilde University, Denmark.
+- 🔭 I’m currently working on small personal projects and school projects.
+- 🌱 I’m currently learning artificial intelligence, mostly NLP.
 - 👯 I’m looking to collaborate on any cool project! Just contact me if you want to.
 <!--
 **baykamsay/baykamsay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
