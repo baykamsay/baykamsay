@@ -5,10 +5,6 @@ I'm Baykam. A computer engineering student at Bilkent University.
 - 👯 I’m looking to collaborate on any cool project! Just contact me if you want to.
 - 📫 How to reach me: hello@baykam.me
 
- &nbsp; <p align="center">
-  ![Baykam's GitHub stats](https://github-readme-stats.vercel.app/api?username=baykamsay&count_private=true&show_icons=true&theme=blueberry)
-</p>
-
 <!--
 **baykamsay/baykamsay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
